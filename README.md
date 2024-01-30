@@ -10,7 +10,7 @@ a list of anything which has been helpful to me
 
 # Python
 
-- [Contour Plots]([https://pages.github.com/](https://plotly.com/python/contour-plots/) I found this really useful for bathymetry plots
+- [Contour Plots](https://plotly.com/python/contour-plots/) I found this really useful for bathymetry plots
 - [Sea-Py](https://pyoceans.github.io/sea-py/) A great tool for the oceanographic community to improve collaborative effort to organize and distribute Python tools
 
 
