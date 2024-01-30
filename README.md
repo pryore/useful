@@ -1,12 +1,16 @@
 # useful
 a list of anything which has been helpful to me
-
-
-# A first-level heading
-
-
-## A second-level heading
+> “If we knew what it was we were doing, it would not be called research, would it?”
+ – Albert Einstein.
 
 
 
-### A third-level heading
+# Contents
+
+
+# Python
+[Contour Plots]([https://pages.github.com/](https://plotly.com/python/contour-plots/)https://plotly.com/python/contour-plots/) I found this really useful for bathymetry plots
+[Sea-Py](https://pyoceans.github.io/sea-py/) A great tool for the oceanographic community to improve collaborative effort to organize and distribute Python tools
+
+
+# List
